@@ -1,33 +1,33 @@
 <div align="center">
 
-# Harsh Chaturvedi
+# 👋 Hi, I'm **Harsh Chaturvedi**
 
-### Artificial Intelligence Engineer • Machine Learning Developer • Intelligent Systems Builder
+### Artificial Intelligence Engineer • Machine Learning Developer • AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+%26+Intelligent+Systems;Passionate+about+AI+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&pause=900&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+and+RAG+Systems" />
 
 </div>
 
 ---
 
-## About Me
+# 🧠 About Me
 
-I am a **B.Tech student specializing in Artificial Intelligence** with a strong interest in designing **intelligent systems that solve real-world problems**.
+I am a **B.Tech student specializing in Artificial Intelligence** focused on building **intelligent systems that solve real-world problems**.
 
-My work focuses on the intersection of:
+My interests revolve around developing:
 
-* Machine Learning
-* Conversational AI
-* Intelligent Automation
-* AI-driven products
+• Machine Learning systems
+• AI agents and conversational platforms
+• LLM-powered applications
+• intelligent automation tools
 
-I enjoy building projects that combine **research, engineering, and practical impact**, especially systems that can scale and serve real users.
+I enjoy combining **research, engineering, and practical implementation** to build systems that have real-world impact.
 
 ---
 
-## Technical Stack
+# ⚙️ Tech Stack
 
-### Programming
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java"/>
@@ -35,9 +35,7 @@ I enjoy building projects that combine **research, engineering, and practical im
 
 ### AI & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-</p>
+Machine Learning • Neural Networks • NLP • Data Analysis
 
 ### Tools & Platforms
 
@@ -47,38 +45,27 @@ I enjoy building projects that combine **research, engineering, and practical im
 
 ---
 
-## Current Learning Focus
+# 🚀 Featured Projects
 
-* Retrieval Augmented Generation (RAG)
-* Large Language Models
-* Multi-Agent AI Systems
-* AI Voice Agents
-* React
-* Flutter
+### 🤖 AI Emotion Detection System
+
+A machine learning system that analyzes textual input and detects emotional states using natural language processing techniques.
 
 ---
 
-## Featured Projects
+### 🎙 AI Voice Agent for Public Services
 
-### AI Emotion Detection System
-
-Machine learning model that analyzes textual inputs and detects emotional states using natural language processing techniques.
-
-### AI Voice Agent for Public Services
-
-Multilingual conversational AI system designed to automate citizen helplines and government service interactions.
-
-### Blood Donor Notification Platform
-
-A real-time system connecting blood donors with hospitals and blood banks to improve emergency response.
-
-### Smart Home Automation using ESP32 & MQTT
-
-IoT research project that enables intelligent home automation using microcontrollers and lightweight messaging protocols.
+A multilingual conversational AI agent designed to automate citizen support systems and government helplines.
 
 ---
 
-## GitHub Analytics
+### 🩸 Blood Donor Notification Platform
+
+A real-time platform that connects blood donors with hospitals and blood banks to improve emergency response systems.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -90,7 +77,7 @@ IoT research project that enables intelligent home automation using microcontrol
 
 ---
 
-## Contribution Activity
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -100,17 +87,16 @@ IoT research project that enables intelligent home automation using microcontrol
 
 ---
 
-## Long Term Vision
+# 🎯 Current Focus
 
-My goal is to design **AI systems that move from research prototypes to real-world infrastructure**, particularly in areas such as:
-
-* Intelligent public service platforms
-* AI automation systems
-* scalable machine learning products
+• Retrieval Augmented Generation (RAG)
+• Large Language Models
+• AI Agent Architectures
+• Conversational AI Systems
 
 ---
 
-## Connect With Me
+# 🤝 Connect With Me
 
 LinkedIn → your_link
 Email → your_email
@@ -119,6 +105,6 @@ Email → your_email
 
 <div align="center">
 
-“Building intelligent systems that create real impact.”
+### “Designing intelligent systems that solve real-world problems.”
 
 </div>
