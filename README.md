@@ -82,7 +82,7 @@ Multilingual conversational AI designed to automate citizen helpline systems.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg">
 
 </p>
 
