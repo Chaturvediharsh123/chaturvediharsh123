@@ -56,16 +56,13 @@ Multilingual conversational AI designed to automate citizen helpline systems.
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Activity
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaturvediharsh123&theme=tokyo-night"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight" />
+## 📊 Profile Summary
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight" />
-
-</p>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaturvediharsh123&theme=tokyonight"/>
 # 🔥 Contribution Streak
 
 <p align="center">
