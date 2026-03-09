@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm **Harsh Chaturvedi**
+# 👋 Harsh Chaturvedi
 
-### Artificial Intelligence Engineer • Machine Learning Developer • AI Systems Builder
+### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&pause=900&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+and+RAG+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=900&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+%7C+RAG+%7C+Automation" />
 
 </div>
 
@@ -12,56 +12,61 @@
 
 # 🧠 About Me
 
-I am a **B.Tech student specializing in Artificial Intelligence** focused on building **intelligent systems that solve real-world problems**.
+I am a **B.Tech student specializing in Artificial Intelligence** passionate about building **intelligent systems that solve real-world problems**.
 
-My interests revolve around developing:
+My focus areas include:
 
-• Machine Learning systems
-• AI agents and conversational platforms
-• LLM-powered applications
-• intelligent automation tools
+• Machine Learning
+• AI Agents
+• Natural Language Processing
+• Data Analysis
+• Intelligent Automation
 
-I enjoy combining **research, engineering, and practical implementation** to build systems that have real-world impact.
+I enjoy turning **ideas into real working systems** that combine research and engineering.
 
 ---
 
 # ⚙️ Tech Stack
 
-### Programming Languages
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java"/>
 </p>
 
-### AI & Data
-
-Machine Learning • Neural Networks • NLP • Data Analysis
-
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
+### AI / ML
+
+Machine Learning • NLP • Neural Networks • Data Analysis
+
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Emotion Detection System
+<p align="center">
 
-A machine learning system that analyzes textual input and detects emotional states using natural language processing techniques.
+<a href="https://github.com/chaturvediharsh123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=emotion-detection&theme=tokyonight&hide_border=true">
+</a>
 
----
+<a href="https://github.com/chaturvediharsh123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=ai-voice-agent&theme=tokyonight&hide_border=true">
+</a>
 
-### 🎙 AI Voice Agent for Public Services
+</p>
 
-A multilingual conversational AI agent designed to automate citizen support systems and government helplines.
+<p align="center">
 
----
+<a href="https://github.com/chaturvediharsh123">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=blood-donor-app&theme=tokyonight&hide_border=true">
+</a>
 
-### 🩸 Blood Donor Notification Platform
-
-A real-time platform that connects blood donors with hospitals and blood banks to improve emergency response systems.
+</p>
 
 ---
 
@@ -69,9 +74,9 @@ A real-time platform that connects blood donors with hospitals and blood banks t
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -81,7 +86,17 @@ A real-time platform that connects blood donors with hospitals and blood banks t
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=chaturvediharsh123&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg">
 
 </p>
 
@@ -105,6 +120,6 @@ Email → your_email
 
 <div align="center">
 
-### “Designing intelligent systems that solve real-world problems.”
+### “Building intelligent systems that create real impact.”
 
 </div>
