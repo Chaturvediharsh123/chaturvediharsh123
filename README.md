@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Harsh Chaturvedi
+# 👋 Harsh Chaturvedi
 
 ### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
 
@@ -10,11 +10,11 @@
 
 ---
 
-#  About Me
+## 🧠 About Me
 
-I am a **B.Tech student specializing in Artificial Intelligence** passionate about building **intelligent systems that solve real-world problems**.
+I am a **B.Tech student specializing in Artificial Intelligence** interested in building **real-world AI systems**.
 
-My focus areas include:
+My work focuses on:
 
 • Machine Learning
 • AI Agents
@@ -22,77 +22,67 @@ My focus areas include:
 • Data Analysis
 • Intelligent Automation
 
-I enjoy turning **ideas into real working systems** that combine research and engineering.
+I enjoy turning **ideas into working intelligent systems**.
 
 ---
 
-#  Tech Stack
+## ⚙️ Tech Stack
 
 ### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
+Python • C++ • Java
 
 ### AI / ML
 
-Machine Learning • NLP • Neural Networks • Data Analysis
+Machine Learning
+Natural Language Processing
+Neural Networks
+
+### Tools
+
+Git • GitHub • Linux • Jupyter • VS Code
 
 ---
 
-#  Featured Projects
+## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 AI Emotion Detection
 
-<a href="https://github.com/chaturvediharsh123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=emotion-detection&theme=tokyonight&hide_border=true">
-</a>
+Machine learning system that detects human emotions from text using NLP techniques.
 
-<a href="https://github.com/chaturvediharsh123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=ai-voice-agent&theme=tokyonight&hide_border=true">
-</a>
+### 🎙 AI Voice Agent
 
-</p>
+Multilingual conversational AI designed to automate government helplines.
 
-<p align="center">
+### 🩸 Blood Donor Notification Platform
 
-<a href="https://github.com/chaturvediharsh123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaturvediharsh123&repo=blood-donor-app&theme=tokyonight&hide_border=true">
-</a>
-
-</p>
+System that connects blood donors with hospitals and blood banks in real time.
 
 ---
 
-#  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=chaturvediharsh123&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# Contribution Snake
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=chaturvediharsh123&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -102,7 +92,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-#  Current Focus
+## 🎯 Current Focus
 
 • Retrieval Augmented Generation (RAG)
 • Large Language Models
@@ -111,10 +101,10 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-#  Connect With Me
+## 🤝 Connect With Me
 
-LinkedIn →(https://www.linkedin.com/in/harsh-chaturvedi-537589292/)
-Email → chaturvediharsh123@gmail.com
+LinkedIn → your_link
+Email → your_email
 
 ---
 
