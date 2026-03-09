@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Harsh Chaturvedi
+#  Harsh Chaturvedi
 
 ### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
 
@@ -10,11 +10,11 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
-🎓 B.Tech student specializing in **Artificial Intelligence**
-🤖 Passionate about **Machine Learning, AI Agents, and Intelligent Systems**
-⚡ Focused on building **AI-powered systems that solve real-world problems**
+ B.Tech student specializing in **Artificial Intelligence**
+ Passionate about **Machine Learning, AI Agents, and Intelligent Systems**
+ Focused on building **AI-powered systems that solve real-world problems**
 
 I enjoy combining **AI research, software engineering, and automation** to build scalable intelligent systems.
 
@@ -30,7 +30,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 🧠 Machine Learning & AI
+#  Machine Learning & AI
 
 <p>
 
@@ -43,7 +43,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 🤖 LLM & AI Agent Frameworks
+#  LLM & AI Agent Frameworks
 
 <p>
 
@@ -57,7 +57,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# ⚙️ Backend & API Development
+#  Backend & API Development
 
 <p>
 
@@ -67,7 +67,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 🔗 Automation & AI Workflows
+#  Automation & AI Workflows
 
 <p>
 
@@ -78,7 +78,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 🛠 Developer Tools
+# Developer Tools
 
 <p>
 
@@ -88,9 +88,9 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🤖 AI Emotion Detection
+### AI Emotion Detection
 
 Machine learning system that detects emotions from text using **Natural Language Processing**.
 
@@ -104,7 +104,7 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 ---
 
-# 📊 Profile Summary
+#  Profile Summary
 
 <p align="center">
 
@@ -124,7 +124,7 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 
 <p align="center">
 
@@ -144,7 +144,7 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 🚀 Retrieval Augmented Generation (RAG)
 🚀 Large Language Models
