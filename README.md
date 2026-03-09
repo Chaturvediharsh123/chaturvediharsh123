@@ -60,9 +60,9 @@ Multilingual conversational AI designed to automate citizen helpline systems.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaturvediharsh123&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaturvediharsh123&layout=compact&theme=tokyonight"/>
 
 </p>
 
