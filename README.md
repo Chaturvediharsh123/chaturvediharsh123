@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Harsh Chaturvedi
+#  Harsh Chaturvedi
 
 ### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
 
@@ -10,7 +10,7 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
 I am a **B.Tech student specializing in Artificial Intelligence** passionate about building **intelligent systems that solve real-world problems**.
 
@@ -26,7 +26,7 @@ I enjoy turning **ideas into real working systems** that combine research and en
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 ### Programming
 
@@ -46,7 +46,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <p align="center">
 
@@ -70,7 +70,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -82,7 +82,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 
 <p align="center">
 
@@ -92,7 +92,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -102,7 +102,7 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 • Retrieval Augmented Generation (RAG)
 • Large Language Models
@@ -111,10 +111,10 @@ Machine Learning • NLP • Neural Networks • Data Analysis
 
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
-LinkedIn → your_link
-Email → your_email
+LinkedIn →(https://www.linkedin.com/in/harsh-chaturvedi-537589292/)
+Email → chaturvediharsh123@gmail.com
 
 ---
 
