@@ -155,13 +155,11 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 # 🤝 Connect With Me
 
-📧 **Email:**
-[chaturvediharsh123@gmail.com](mailto:chaturvediharsh123@gmail.com)
+📧 **Email:**  
+[Send Email](mailto:chaturvediharsh123@gmail.com)
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/harsh-chaturvedi-537589292/
-
----
+🔗 **LinkedIn:**  
+[Harsh Chaturvedi](https://www.linkedin.com/in/harsh-chaturvedi-537589292/)
 
 <div align="center">
 
