@@ -1,66 +1,62 @@
 <div align="center">
 
-# 👋 Harsh Chaturvedi
+# 🚀 Harsh Chaturvedi
 
-### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
+### Artificial Intelligence Student | Machine Learning Developer | AI Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=900&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+%7C+RAG+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+%7C+RAG+%7C+Automation"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I am a **B.Tech student specializing in Artificial Intelligence** interested in building **real-world AI systems**.
+🎓 B.Tech student specializing in **Artificial Intelligence**
+🤖 Passionate about **Machine Learning, AI Agents, and Intelligent Systems**
+⚡ Interested in building **AI systems that solve real-world problems**
 
-My work focuses on:
-
-• Machine Learning
-• AI Agents
-• Natural Language Processing
-• Data Analysis
-• Intelligent Automation
-
-I enjoy turning **ideas into working intelligent systems**.
+My work focuses on combining **AI research + engineering** to build practical systems.
 
 ---
 
-## ⚙️ Tech Stack
+# 🛠 Tech Stack
 
-### Programming
+### 💻 Programming
 
-Python • C++ • Java
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java"/>
+</p>
 
-### AI / ML
+### 🧠 AI / Machine Learning
 
-Machine Learning
-Natural Language Processing
-Neural Networks
+Machine Learning • NLP • Neural Networks • Data Analysis
 
-### Tools
+### ⚙️ Tools
 
-Git • GitHub • Linux • Jupyter • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 AI Emotion Detection
 
-Machine learning system that detects human emotions from text using NLP techniques.
+Machine learning model that detects emotions from text using Natural Language Processing.
+
+### 🐰 Usagi AI
+
+AI-powered intelligent assistant designed to help users interact with systems more efficiently.
 
 ### 🎙 AI Voice Agent
 
-Multilingual conversational AI designed to automate government helplines.
-
-### 🩸 Blood Donor Notification Platform
-
-System that connects blood donors with hospitals and blood banks in real time.
+Multilingual conversational AI designed to automate citizen helpline systems.
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -72,7 +68,7 @@ System that connects blood donors with hospitals and blood banks in real time.
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -82,34 +78,36 @@ System that connects blood donors with hospitals and blood banks in real time.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-• Retrieval Augmented Generation (RAG)
-• Large Language Models
-• AI Agent Architectures
-• Conversational AI Systems
+🚀 Retrieval Augmented Generation (RAG)
+🚀 Large Language Models
+🚀 AI Agent Architectures
+🚀 Conversational AI Systems
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-LinkedIn → your_link
-Email → your_email
+📧 **Email:** [chaturvediharsh123@gmail.com](mailto:chaturvediharsh123@gmail.com)
+
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/harsh-chaturvedi-537589292/
 
 ---
 
 <div align="center">
 
-### “Building intelligent systems that create real impact.”
+### 💡 “Building intelligent systems that create real impact.”
 
 </div>
