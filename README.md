@@ -163,6 +163,6 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 <div align="center">
 
-### 💡 “Building intelligent systems that create real impact.”
+###  “Building intelligent systems that create real impact.”
 
 </div>
