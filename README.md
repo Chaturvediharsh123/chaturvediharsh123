@@ -20,7 +20,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
-# 💻 Programming Languages
+#  Programming Languages
 
 <p>
 
