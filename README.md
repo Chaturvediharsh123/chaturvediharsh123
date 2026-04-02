@@ -24,7 +24,7 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 
 </p>
 
