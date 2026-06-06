@@ -155,6 +155,9 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 # 🤝 Connect With Me
 
+🔗 **Portfolio:**  
+[Harsh Chaturvedi](https://www.harshchaturvedi.me/)
+
 📧 **Email:**  
 [Send Email](mailto:chaturvediharsh123@gmail.com)
 
