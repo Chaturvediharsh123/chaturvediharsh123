@@ -94,11 +94,11 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 Machine learning system that detects emotions from text using **Natural Language Processing**.
 
-### 🐰 Usagi AI
+###  Usagi AI
 
 AI-powered intelligent assistant designed to help users interact with systems efficiently.
 
-### 🎙 AI Voice Agent
+###  AI Voice Agent
 
 Multilingual conversational AI designed to automate **citizen helpline systems**.
 
@@ -153,7 +153,7 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 ---
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 🔗 **Portfolio:**  
 [Harsh Chaturvedi](https://www.harshchaturvedi.me/)
