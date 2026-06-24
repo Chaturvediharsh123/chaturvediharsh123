@@ -146,10 +146,10 @@ Multilingual conversational AI designed to automate **citizen helpline systems**
 
 #  Current Focus
 
-🚀 Retrieval Augmented Generation (RAG)
-🚀 Large Language Models
-🚀 AI Agent Architectures
-🚀 Conversational AI Systems
+ Retrieval Augmented Generation (RAG)
+ Large Language Models
+ AI Agent Architectures
+ Conversational AI Systems
 
 ---
 
