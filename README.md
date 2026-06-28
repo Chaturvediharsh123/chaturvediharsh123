@@ -61,7 +61,15 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 <p>
 
+# Backend & API Development
+
+<p>
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+</p>
 
 </p>
 
