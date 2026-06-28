@@ -59,9 +59,6 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 #  Backend & API Development
 
-<p>
-
-# Backend & API Development
 
 <p>
 
@@ -69,7 +66,6 @@ I enjoy combining **AI research, software engineering, and automation** to build
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 
-</p>
 
 </p>
 
@@ -86,6 +82,17 @@ I enjoy combining **AI research, software engineering, and automation** to build
 
 ---
 
+# Databases & Vector Stores
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+---
 # Developer Tools
 
 <p>
