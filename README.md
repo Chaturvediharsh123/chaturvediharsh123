@@ -1,186 +1,174 @@
 <div align="center">
 
-#  Harsh Chaturvedi
+# Hi, I'm Harsh Chaturvedi 👋
 
-### Artificial Intelligence Student • Machine Learning Developer • AI Systems Builder
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+%26+Intelligent+Systems;Exploring+LLMs+%7C+RAG+%7C+Automation" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Building+AI+Agents+and+Intelligent+Systems;Exploring+LLMs+%7C+RAG+%7C+Automation"/>
+<p>
+  <a href="https://www.harshchaturvedi.me/"><img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/harsh-chaturvedi-537589292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chaturvediharsh123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=chaturvediharsh123&style=for-the-badge&color=7aa2f7&label=Profile+Views" alt="Profile views"/>
+</p>
 
 </div>
 
 ---
 
-#  About Me
+## 🧠 About Me
 
- B.Tech student specializing in **Artificial Intelligence**
- Passionate about **Machine Learning, AI Agents, and Intelligent Systems**
- Focused on building **AI-powered systems that solve real-world problems**
+```python
+class Harsh:
+    role       = "B.Tech Student — Artificial Intelligence"
+    interests  = ["Machine Learning", "AI Agents", "LLMs", "RAG", "Automation"]
+    building   = "AI-powered systems that solve real-world problems"
+    approach   = "AI research + software engineering + automation"
+    motto      = "Building intelligent systems that create real impact."
+```
 
-I enjoy combining **AI research, software engineering, and automation** to build scalable intelligent systems.
-
----
-
-#  Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
-
-</p>
+- 🎓 B.Tech student specializing in **Artificial Intelligence**
+- 🤖 Passionate about **Machine Learning, AI Agents and Intelligent Systems**
+- 🛠️ I combine **AI research, software engineering and automation** to build scalable systems
+- 🌱 Currently going deep on **RAG, LLMs, agent architectures and conversational AI**
 
 ---
 
-#  Machine Learning & AI
+## 🛠️ Tech Stack
 
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-AI-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-#  LLM & AI Agent Frameworks
-
-<p>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-6E57E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLaMA-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-AI-blueviolet?style=for-the-badge"/>
-
-</p>
-
----
-
-#  Backend & API Development
-
-
-<p>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-
-
-</p>
-
----
-
-#  Automation & AI Workflows
-
-<p>
-
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
-
----
-
-# Databases & Vector Stores
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
----
-# Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>ML & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO"/>
+      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="NLP"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>LLMs & Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logoColor=white" alt="CrewAI"/>
+      <img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" alt="LLaMA"/>
+      <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,redis,sqlite&theme=dark" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tools"/></td>
+  </tr>
+</table>
 
 ---
 
-#  Featured Projects
+## 🚀 Featured Projects
 
-### AI Emotion Detection
-
-Machine learning system that detects emotions from text using **Natural Language Processing**.
-
-###  Usagi AI
-
-AI-powered intelligent assistant designed to help users interact with systems efficiently.
-
-###  AI Voice Agent
-
-Multilingual conversational AI designed to automate **citizen helpline systems**.
-
----
-
-#  Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaturvediharsh123&theme=tokyo-night"/>
-
-</p>
-
----
-
-#  Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaturvediharsh123&theme=tokyonight"/>
-
-</p>
+<!-- Replace each repository link with the real repo URL -->
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎭 AI Emotion Detection</h3>
+      <p>Machine-learning system that detects emotions from text using Natural Language Processing.</p>
+      <p><code>Python</code> <code>NLP</code> <code>scikit-learn</code></p>
+      <a href="https://github.com/chaturvediharsh123?tab=repositories">🔗 View repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐰 Usagi AI</h3>
+      <p>AI-powered intelligent assistant that helps users interact with systems efficiently.</p>
+      <p><code>LLMs</code> <code>LangChain</code> <code>FastAPI</code></p>
+      <a href="https://github.com/chaturvediharsh123?tab=repositories">🔗 View repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📞 AI Voice Agent</h3>
+      <p>Multilingual conversational AI that automates citizen helpline systems.</p>
+      <p><code>Voice AI</code> <code>Agents</code> <code>Multilingual</code></p>
+      <a href="https://github.com/chaturvediharsh123?tab=repositories">🔗 View repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-#  Contribution Streak
+## 📊 GitHub Stats
 
-<p align="center">
+<!-- These cards are generated by .github/workflows/profile-assets.yml -->
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chaturvediharsh123&theme=tokyonight"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details"/>
 
-</p>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="Stats"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most commit language"/>
 
----
+<img src="https://streak-stats.demolab.com?user=chaturvediharsh123&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
-#  Current Focus
+## 📈 Contribution Activity
 
- Retrieval Augmented Generation (RAG)
- Large Language Models
- AI Agent Architectures
- Conversational AI Systems
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaturvediharsh123&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+</div>
 
 ---
 
-#  Connect With Me
+## 🐍 Contribution Snake
 
-🔗 **Portfolio:**  
-[Harsh Chaturvedi](https://www.harshchaturvedi.me/)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/chaturvediharsh123/chaturvediharsh123/output/github-snake-dark.svg"/>
+  </picture>
+</div>
 
-📧 **Email:**  
-[Send Email](mailto:chaturvediharsh123@gmail.com)
+---
 
-🔗 **LinkedIn:**  
-[Harsh Chaturvedi](https://www.linkedin.com/in/harsh-chaturvedi-537589292/)
+## 🎯 Current Focus
+
+| Area | What I'm exploring |
+|---|---|
+| 📚 **RAG** | Retrieval pipelines, chunking, embeddings, vector search |
+| 🧠 **LLMs** | Fine-tuning, prompting, open-source models |
+| 🤖 **AI Agents** | Multi-agent architectures, tool use, CrewAI / LangChain |
+| 💬 **Conversational AI** | Voice agents and multilingual assistants |
+
+---
 
 <div align="center">
 
-###  “Building intelligent systems that create real impact.”
+### 💡 *"Building intelligent systems that create real impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
